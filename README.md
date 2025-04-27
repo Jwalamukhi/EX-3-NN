@@ -104,6 +104,9 @@ predict(w1,w2,test)
 
 <H3>Output:</H3>
 
+![exp3-1](https://github.com/user-attachments/assets/8a24d75c-6541-4ecd-9f67-adf46b6e11f2)
+
+
 
 
 <H3> Result:</H3>
